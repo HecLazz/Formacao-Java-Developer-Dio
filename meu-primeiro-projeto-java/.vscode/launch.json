@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "edu.hector.primeirasemana.AboutMe",
+            "projectName": "meu-primeiro-projeto-java_33e34694"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
